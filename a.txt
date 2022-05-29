@@ -2,7 +2,6 @@ aabcabcabakldjf;labafalkdfjal;kfjlak;j
 a
 a
 a   master1
+a     
 a
-a
-b
-Ac		hot-fix
+Ac		hot-fix1
